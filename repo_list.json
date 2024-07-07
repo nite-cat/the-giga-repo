@@ -14,5 +14,6 @@
   "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
   "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json",
   "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
-  "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/repo.json"
+  "https://raw.githubusercontent.com/ffxivcode/DalamudPlugins/main/repo.json",
+  "https://plugins.carvel.li/"
 ]
