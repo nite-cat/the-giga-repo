@@ -28,7 +28,7 @@ async function main() {
         plugin_list.push(...plugins)
     }
 
-    fs.writeFileSync("./the-one.json", JSON.stringify(plugin_list))
+    fs.writeFileSync("./the-one.json", JSON.stringify(plugin_list, null, '\t'))
 }
 
 main()
