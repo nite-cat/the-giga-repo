@@ -28,7 +28,11 @@ async function main() {
         plugin_list.push(...plugins)
     }
 
+    plugin_list = plugin_list.filter((obj1, i, arr) => 
+        arr.findIndex(obj2 => (obj2.InternalName === obj1.InternalName)) === i
+    )
+    
     fs.writeFileSync("./the-one.json", JSON.stringify(plugin_list.sort((a, b) => a.Name.localeCompare(b.Name)), null, '\t'))
-}
+    }
 
 main()
