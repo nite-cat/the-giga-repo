@@ -1,3 +1,4 @@
+const fs = require("fs");
 const https = require('https');
 
 function get_json(url) {
