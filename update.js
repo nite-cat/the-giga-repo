@@ -28,7 +28,7 @@ async function main() {
         plugin_list.push(...plugins)
     }
 
-    fs.writeFileSync("./the-one.json", JSON.stringify(plugin_list, null, '\t'))
+    fs.writeFileSync("./the-one.json", JSON.stringify(plugin_list.sort((a, b) => a.Name.localeCompare(b.Name)), null, '\t'))
 }
 
 main()
