@@ -1,0 +1,8 @@
+name: 'updater'
+description: 'update repo list'
+outputs:
+  repo: # id of output
+    description: 'repo json'
+runs:
+  using: 'node20'
+  main: 'update.js'
