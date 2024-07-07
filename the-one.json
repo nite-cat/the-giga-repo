@@ -359,7 +359,7 @@
 		"IsTestingExclusive": false,
 		"DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
-		"DownloadCount": 23508,
+		"DownloadCount": 24222,
 		"LastUpdate": "1720125044"
 	},
 	{
@@ -385,7 +385,7 @@
 		"IsTestingExclusive": false,
 		"DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-		"DownloadCount": 15988,
+		"DownloadCount": 15989,
 		"LastUpdate": "1700166956"
 	},
 	{
@@ -416,26 +416,26 @@
 		"Name": "Cammy",
 		"Punchline": "A simple editor for the game's camera settings",
 		"Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-		"Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
+		"Changelog": "Partially fixed for Dawntrail, some features may still be broken!",
 		"InternalName": "Cammy",
-		"AssemblyVersion": "2.1.0.8",
+		"AssemblyVersion": "2.1.0.9",
 		"RepoUrl": "https://github.com/UnknownX7/Cammy",
 		"ApplicableVersion": "any",
 		"CategoryTags": [
 			"utility"
 		],
-		"DalamudApiLevel": 9,
+		"DalamudApiLevel": 10,
 		"IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
 		"ImageUrls": [
 			"https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
 		],
-		"DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
+		"DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
 		"IsHide": false,
 		"IsTestingExclusive": false,
-		"DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-		"DownloadCount": 38171,
-		"LastUpdate": "1696379002"
+		"DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+		"DownloadCount": 0,
+		"LastUpdate": "1720365098"
 	},
 	{
 		"Author": "UnknownX",
@@ -460,7 +460,7 @@
 		"IsTestingExclusive": false,
 		"DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.9/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.9/latest.zip",
-		"DownloadCount": 12554,
+		"DownloadCount": 12733,
 		"LastUpdate": "1719799238"
 	},
 	{
@@ -771,31 +771,6 @@
 		"SupportsProfiles": true
 	},
 	{
-		"Author": "Taurenkey, Gidedin",
-		"Name": "LazyLoot",
-		"Punchline": "Dungeon Loot but Lazy.",
-		"Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
-		"Tags": [
-			"plugin",
-			"loot",
-			"utility",
-			"other"
-		],
-		"InternalName": "LazyLoot",
-		"RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-		"DownloadCount": 69139,
-		"LastUpdate": 1720024047711,
-		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
-		"AssemblyVersion": "5.3.0.0",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": "10",
-		"Changelog": "",
-		"TestingAssemblyVersion": "5.2.0.2",
-		"DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
-		"IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
-	},
-	{
 		"Author": "Taurenkey",
 		"Name": "Saucy",
 		"Punchline": "When working for MGP is too much effort.",
@@ -830,7 +805,7 @@
 		],
 		"InternalName": "AutoHook",
 		"RepoUrl": "https://github.com/PunishXIV/AutoHook",
-		"DownloadCount": 167499,
+		"DownloadCount": 167607,
 		"LastUpdate": 1720334981829,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -850,7 +825,7 @@
 		],
 		"InternalName": "Artisan",
 		"RepoUrl": "https://github.com/PunishXIV/Artisan",
-		"DownloadCount": 1197354,
+		"DownloadCount": 1197411,
 		"LastUpdate": 1720226470894,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -873,7 +848,7 @@
 		],
 		"InternalName": "Splatoon",
 		"RepoUrl": "https://github.com/PunishXIV/Splatoon",
-		"DownloadCount": 261964,
+		"DownloadCount": 262003,
 		"LastUpdate": 1720286677772,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -896,7 +871,7 @@
 		],
 		"InternalName": "PandorasBox",
 		"RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-		"DownloadCount": 284145,
+		"DownloadCount": 284212,
 		"LastUpdate": 1720294159560,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -916,7 +891,7 @@
 		"Tags": [],
 		"InternalName": "AutoRetainer",
 		"RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-		"DownloadCount": 442797,
+		"DownloadCount": 442818,
 		"LastUpdate": 1720140294233,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -929,6 +904,31 @@
 		"IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
 	},
 	{
+		"Author": "Taurenkey, Gidedin",
+		"Name": "LazyLoot",
+		"Punchline": "Dungeon Loot but Lazy.",
+		"Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+		"Tags": [
+			"plugin",
+			"loot",
+			"utility",
+			"other"
+		],
+		"InternalName": "LazyLoot",
+		"RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+		"DownloadCount": 69148,
+		"LastUpdate": 1720024047711,
+		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
+		"AssemblyVersion": "5.3.0.0",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": "10",
+		"Changelog": "",
+		"TestingAssemblyVersion": "5.2.0.2",
+		"DownloadLinkTesting": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/testing.zip",
+		"IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
+	},
+	{
 		"Author": "daemitus, kawaii",
 		"Name": "Yes Already",
 		"Punchline": "Clicks Yes in various dialogs you've specified.",
@@ -936,7 +936,7 @@
 		"Tags": [],
 		"InternalName": "YesAlready",
 		"RepoUrl": "https://github.com/PunishXIV/YesAlready",
-		"DownloadCount": 200406,
+		"DownloadCount": 200423,
 		"LastUpdate": 1720187129346,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
@@ -956,7 +956,7 @@
 		],
 		"InternalName": "Avarice",
 		"RepoUrl": "https://github.com/PunishXIV/Avarice",
-		"DownloadCount": 61463,
+		"DownloadCount": 61496,
 		"LastUpdate": 1720319535897,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -974,7 +974,7 @@
 		"Tags": [],
 		"InternalName": "Orbwalker",
 		"RepoUrl": "https://github.com/PunishXIV/Orbwalker",
-		"DownloadCount": 18826,
+		"DownloadCount": 18832,
 		"LastUpdate": 1720295057833,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/12/Orbwalker/versions/latest.zip",
@@ -997,7 +997,7 @@
 		],
 		"InternalName": "PalacePal",
 		"RepoUrl": "https://github.com/PunishXIV/PalacePal",
-		"DownloadCount": 54869,
+		"DownloadCount": 54961,
 		"LastUpdate": 1720346837668,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -1015,7 +1015,7 @@
 		"Tags": [],
 		"InternalName": "SomethingNeedDoing",
 		"RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-		"DownloadCount": 167028,
+		"DownloadCount": 167090,
 		"LastUpdate": 1720359857454,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
@@ -1054,7 +1054,7 @@
 		"Tags": [],
 		"InternalName": "vnavmesh",
 		"RepoUrl": null,
-		"DownloadCount": 23625,
+		"DownloadCount": 23635,
 		"LastUpdate": 1720282200503,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
@@ -1066,36 +1066,13 @@
 	},
 	{
 		"Author": "veyn",
-		"Name": "Boss Mod",
-		"Punchline": "Don't fail at raid mechanics anymore",
-		"Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
-		"Tags": [],
-		"InternalName": "BossMod",
-		"RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-		"DownloadCount": 178594,
-		"LastUpdate": 1720306864442,
-		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
-		"AssemblyVersion": "0.0.0.172",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": "10",
-		"Changelog": "",
-		"IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
-		"ImageUrls": [
-			"https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
-			"https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
-			"https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
-		]
-	},
-	{
-		"Author": "veyn",
 		"Name": "V(ery) Island",
 		"Punchline": "Automate island sanctuary activities",
 		"Description": "Automate gathering, workshop assignments, etc.",
 		"Tags": [],
 		"InternalName": "visland",
 		"RepoUrl": "https://github.com/awgil/ffxiv_visland",
-		"DownloadCount": 242565,
+		"DownloadCount": 242570,
 		"LastUpdate": 1720035044596,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
@@ -1125,6 +1102,29 @@
 	},
 	{
 		"Author": "veyn",
+		"Name": "Boss Mod",
+		"Punchline": "Don't fail at raid mechanics anymore",
+		"Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+		"Tags": [],
+		"InternalName": "BossMod",
+		"RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+		"DownloadCount": 178621,
+		"LastUpdate": 1720306864442,
+		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+		"AssemblyVersion": "0.0.0.172",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": "10",
+		"Changelog": "",
+		"IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+		"ImageUrls": [
+			"https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+			"https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+			"https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+		]
+	},
+	{
+		"Author": "veyn",
 		"Name": "vfallguy",
 		"Punchline": "Get that achievement!",
 		"Description": "Bot that does fall guys event automatically.",
@@ -1149,7 +1149,7 @@
 		"Tags": [],
 		"InternalName": "AutoDuty",
 		"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-		"DownloadCount": 6504,
+		"DownloadCount": 6513,
 		"LastUpdate": 1720329935444,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
@@ -1174,7 +1174,7 @@
 		"Tags": [],
 		"InternalName": "Dropbox",
 		"RepoUrl": "https://github.com/kawaii/Dropbox",
-		"DownloadCount": 1757,
+		"DownloadCount": 1758,
 		"LastUpdate": 1720101556379,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/latest.zip",
@@ -1300,7 +1300,7 @@
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.1/RotationSolver.zip",
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.0.0.7",
-		"DownloadCount": 19556,
+		"DownloadCount": 19637,
 		"Changelog": "## What's Changed\r\n* DT Blm Base Fixes Thunderhead by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/204\r\n* Nin ast base fixes by @Tykku in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/206\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.0.18...7.0.1.1"
 	},
 	{
@@ -1337,7 +1337,7 @@
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.2/BossModReborn.zip",
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
 		"TestingAssemblyVersion": "1.0.2.1",
-		"DownloadCount": 16532,
+		"DownloadCount": 16640,
 		"Changelog": "## What's Changed\r\n* First pass at EX1 and EX2 WIP modules by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/156\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.1...7.0.1.2"
 	},
 	{
@@ -1367,7 +1367,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
 		"AssemblyVersion": "7.0.0.0",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.0.0.0/ActionTimelineReborn.zip",
-		"DownloadCount": 1407,
+		"DownloadCount": 1413,
 		"Changelog": "## What's Changed\r\n* Dawntrail by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/3\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/1.3.6.2...7.0.0.0"
 	},
 	{
@@ -1399,7 +1399,7 @@
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.19/GatherbuddyReborn.zip",
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/6.58.2.17/GatherbuddyReborn.zip",
 		"TestingAssemblyVersion": "6.58.2.17",
-		"DownloadCount": 8977,
+		"DownloadCount": 9031,
 		"Changelog": "## What's Changed\r\n* Add filter to only gather items matching job type by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/35\r\n* Crash fix by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/39\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/6.58.2.18...6.58.2.19"
 	},
 	{
@@ -1427,7 +1427,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/1.0.0.7/EasyZoomReborn.zip",
 		"AssemblyVersion": "1.0.0.7",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/1.0.0.7/EasyZoomReborn.zip",
-		"DownloadCount": 1150,
+		"DownloadCount": 1160,
 		"Changelog": "## What's Changed\r\n* IcWa - Fixed nullable warnings, added height settings modified UI to be a little cleaner and added scale parameter to UI to avoid errors on little percentage UI by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/5\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.6...1.0.0.7"
 	},
 	{
