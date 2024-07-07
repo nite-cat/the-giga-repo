@@ -19,19 +19,15 @@ function get_json(url) {
     })
 }
 
-async function main2() {
-  let plugin_list = []
-  for (let repo of repos) {
-    const plugins = await get_json(repo)
-    plugin_list.push(...plugins)
-  }
-  console.log(plugin_list)
-}
-
 async function main() {
-  const fs = require("fs")
-  const repos = JSON.parse(fs.readFileSync("./repo_list.json").toString())
-  console.log(repos)
+    const repos = JSON.parse(fs.readFileSync("./repo_list.json").toString())
+    let plugin_list = []
+    for (let repo of repos) {
+    const plugins = await get_json(repo)
+        plugin_list.push(...plugins)
+    }
+
+    fs.writeFileSync("./the-one.json", JSON.stringify(plugin_list))
 }
 
 main()
