@@ -103,7 +103,7 @@
 		"Tags": [],
 		"InternalName": "AutoDuty",
 		"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-		"DownloadCount": 12766,
+		"DownloadCount": 12767,
 		"LastUpdate": 1721089270957,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
@@ -131,7 +131,7 @@
 		],
 		"InternalName": "AutoHook",
 		"RepoUrl": "https://github.com/PunishXIV/AutoHook",
-		"DownloadCount": 236739,
+		"DownloadCount": 236740,
 		"LastUpdate": 1720718139613,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -224,7 +224,7 @@
 		"Tags": [],
 		"InternalName": "BossMod",
 		"RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-		"DownloadCount": 226238,
+		"DownloadCount": 226240,
 		"LastUpdate": 1721066340533,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
@@ -271,7 +271,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.26/BossModReborn.zip",
 		"AssemblyVersion": "7.0.1.26",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.0.1.26/BossModReborn.zip",
-		"DownloadCount": 34102,
+		"DownloadCount": 34103,
 		"Changelog": "## What's Changed\r\n* Origenics update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/181\r\n* Alexandria B2 and B3 updated by @erdelf in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/182\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.0.1.24...7.0.1.26"
 	},
 	{
@@ -1210,7 +1210,7 @@
 		],
 		"InternalName": "PandorasBox",
 		"RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-		"DownloadCount": 321020,
+		"DownloadCount": 321021,
 		"LastUpdate": 1720543857303,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -1379,7 +1379,7 @@
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.1.6/RotationSolver.zip",
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.0.7/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.0.0.7",
-		"DownloadCount": 25705,
+		"DownloadCount": 25706,
 		"Changelog": "## What's Changed\r\n* Fixed pet summoning happening too quickly by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/222\r\n* Update SamuraiRotation.cs by @SonicZeHedgehog in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n## New Contributors\r\n* @SonicZeHedgehog made their first contribution in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/220\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.1.5...7.0.1.6"
 	},
 	{
