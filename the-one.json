@@ -172,7 +172,7 @@
 		],
 		"InternalName": "Automaton",
 		"RepoUrl": "https://github.com/Jaksuhn/Automaton",
-		"DownloadCount": 83079,
+		"DownloadCount": 83080,
 		"LastUpdate": 1730113150948,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
@@ -190,7 +190,7 @@
 		"Tags": [],
 		"InternalName": "AutoRetainer",
 		"RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-		"DownloadCount": 726529,
+		"DownloadCount": 726531,
 		"LastUpdate": 1731115985235,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -301,7 +301,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.181/BossModReborn.zip",
 		"AssemblyVersion": "7.2.0.181",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.181/BossModReborn.zip",
-		"DownloadCount": 115526,
+		"DownloadCount": 115529,
 		"Changelog": "## What's Changed\r\n* xelphatol trash mob modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/434\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.180...7.2.0.181"
 	},
 	{
@@ -594,7 +594,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
 		"AssemblyVersion": "7.0.1.1",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.0.1.1/EasyZoomReborn.zip",
-		"DownloadCount": 6727,
+		"DownloadCount": 6729,
 		"Changelog": "## What's Changed\r\n* Resolve Issue around logic on HeightCameraSettings and reset function of it by @IncognitoWater in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/6\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/1.0.0.7...7.0.1.1"
 	},
 	{
@@ -812,8 +812,8 @@
 		"Author": "Usagi",
 		"Name": "IINACT",
 		"InternalName": "IINACT",
-		"AssemblyVersion": "2.7.2.0",
-		"TestingAssemblyVersion": "2.7.2.0",
+		"AssemblyVersion": "2.7.3.0",
+		"TestingAssemblyVersion": "2.7.3.0",
 		"Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/marzent/IINACT",
@@ -822,15 +822,15 @@
 			"plugin",
 			"ACT"
 		],
-		"DalamudApiLevel": 10,
+		"DalamudApiLevel": 11,
 		"LoadPriority": 0,
 		"IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
 		"Punchline": "A parsing plugin.",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
-		"DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.7.2.0/IINACT.zip",
-		"DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.7.2.0/IINACT.zip",
-		"DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.7.2.0/IINACT.zip"
+		"DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.7.3.0/IINACT.zip",
+		"DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.7.3.0/IINACT.zip",
+		"DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.7.3.0/IINACT.zip"
 	},
 	{
 		"Author": "NightmareXIV",
@@ -1470,7 +1470,7 @@
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.154/RotationSolver.zip",
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.0.5.141",
-		"DownloadCount": 133823,
+		"DownloadCount": 133833,
 		"Changelog": "## What's Changed\r\n* Guren shall be used when 2 or more targets by @MillerTheBest in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/443\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.153...7.0.5.154"
 	},
 	{
@@ -1754,7 +1754,7 @@
 		"Tags": [],
 		"InternalName": "visland",
 		"RepoUrl": "https://github.com/awgil/ffxiv_visland",
-		"DownloadCount": 454391,
+		"DownloadCount": 454392,
 		"LastUpdate": 1728379275753,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
@@ -1874,7 +1874,7 @@
 		"Tags": [],
 		"InternalName": "YesAlready",
 		"RepoUrl": "https://github.com/PunishXIV/YesAlready",
-		"DownloadCount": 443938,
+		"DownloadCount": 443939,
 		"LastUpdate": 1729541816556,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
