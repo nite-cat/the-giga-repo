@@ -83,7 +83,7 @@
 		],
 		"InternalName": "Artisan",
 		"RepoUrl": "https://github.com/PunishXIV/Artisan",
-		"DownloadCount": 1764463,
+		"DownloadCount": 1764464,
 		"LastUpdate": 1723884407536,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -190,7 +190,7 @@
 		"Tags": [],
 		"InternalName": "AutoRetainer",
 		"RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-		"DownloadCount": 731241,
+		"DownloadCount": 731279,
 		"LastUpdate": 1731616906471,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -301,7 +301,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.182/BossModReborn.zip",
 		"AssemblyVersion": "7.2.0.182",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.182/BossModReborn.zip",
-		"DownloadCount": 114097,
+		"DownloadCount": 114169,
 		"Changelog": "## What's Changed\r\n* 7.1 test update by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/435\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.181...7.2.0.182"
 	},
 	{
@@ -594,7 +594,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.0/EasyZoomReborn.zip",
 		"AssemblyVersion": "7.1.0.0",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.0/EasyZoomReborn.zip",
-		"DownloadCount": 6953,
+		"DownloadCount": 6975,
 		"Changelog": "## What's Changed\r\n* API 11 update by @BrakusTapus in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/7\r\n\r\n## New Contributors\r\n* @BrakusTapus made their first contribution in https://github.com/FFXIV-CombatReborn/EasyZoomReborn/pull/7\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.0.1.1...7.1.0.0"
 	},
 	{
@@ -1470,7 +1470,7 @@
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.154/RotationSolver.zip",
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.0.5.141/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.0.5.141",
-		"DownloadCount": 134942,
+		"DownloadCount": 134945,
 		"Changelog": "## What's Changed\r\n* Guren shall be used when 2 or more targets by @MillerTheBest in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/443\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.0.5.153...7.0.5.154"
 	},
 	{
@@ -1614,7 +1614,7 @@
 		],
 		"InternalName": "Splatoon",
 		"RepoUrl": "https://github.com/PunishXIV/Splatoon",
-		"DownloadCount": 549326,
+		"DownloadCount": 549334,
 		"LastUpdate": 1731451914549,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
