@@ -26,7 +26,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
 		"AssemblyVersion": "7.1.0.0",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
-		"DownloadCount": 7647,
+		"DownloadCount": 7649,
 		"Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0"
 	},
 	{
@@ -83,7 +83,7 @@
 		],
 		"InternalName": "Artisan",
 		"RepoUrl": "https://github.com/PunishXIV/Artisan",
-		"DownloadCount": 1908374,
+		"DownloadCount": 1908377,
 		"LastUpdate": 1732379311136,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -104,7 +104,7 @@
 		"Tags": [],
 		"InternalName": "AutoDuty",
 		"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-		"DownloadCount": 282746,
+		"DownloadCount": 282747,
 		"LastUpdate": 1732475833479,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
@@ -135,7 +135,7 @@
 		],
 		"InternalName": "AutoHook",
 		"RepoUrl": "https://github.com/PunishXIV/AutoHook",
-		"DownloadCount": 432580,
+		"DownloadCount": 432581,
 		"LastUpdate": 1732134502714,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -196,7 +196,7 @@
 		"Tags": [],
 		"InternalName": "AutoRetainer",
 		"RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-		"DownloadCount": 845629,
+		"DownloadCount": 845632,
 		"LastUpdate": 1732490577719,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -307,7 +307,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.206/BossModReborn.zip",
 		"AssemblyVersion": "7.2.0.206",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.0.206/BossModReborn.zip",
-		"DownloadCount": 86892,
+		"DownloadCount": 86894,
 		"Changelog": "## What's Changed\r\n* small perf optimisation by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/466\r\n* jeuno trash mob modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/467\r\n* Jeuno trash modules by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/468\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.205...7.2.0.206"
 	},
 	{
@@ -600,7 +600,7 @@
 		"DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
 		"AssemblyVersion": "7.1.0.2",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
-		"DownloadCount": 12234,
+		"DownloadCount": 12235,
 		"Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2"
 	},
 	{
@@ -711,7 +711,7 @@
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.10/GatherbuddyReborn.zip",
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.3/GatherbuddyReborn.zip",
 		"TestingAssemblyVersion": "7.2.2.3",
-		"DownloadCount": 90607,
+		"DownloadCount": 90608,
 		"Changelog": "## What's Changed\r\n* Added Gatherer's Boon Actions by @EstZw3i in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/244\r\n* Proposal: remove the option to disable advanced unstuck by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/245\r\n* Extend base_gathering table by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/247\r\n\r\n## New Contributors\r\n* @EstZw3i made their first contribution in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/244\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.9...7.2.2.10"
 	},
 	{
@@ -1437,7 +1437,7 @@
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.7/RotationSolver.zip",
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.0.8/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.1.0.8",
-		"DownloadCount": 147730,
+		"DownloadCount": 147741,
 		"Changelog": "Update for Dalamud Full Release\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.0.6...7.1.0.7"
 	},
 	{
@@ -1560,7 +1560,7 @@
 		"Tags": [],
 		"InternalName": "SomethingNeedDoing",
 		"RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-		"DownloadCount": 311436,
+		"DownloadCount": 311438,
 		"LastUpdate": 1732536784982,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
@@ -1757,7 +1757,7 @@
 		"Tags": [],
 		"InternalName": "vnavmesh",
 		"RepoUrl": null,
-		"DownloadCount": 145556,
+		"DownloadCount": 145557,
 		"LastUpdate": 1732497848343,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
@@ -1841,7 +1841,7 @@
 		"Tags": [],
 		"InternalName": "WrathCombo",
 		"RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-		"DownloadCount": 21111,
+		"DownloadCount": 21112,
 		"LastUpdate": 1732474730670,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
