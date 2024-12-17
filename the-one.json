@@ -25,7 +25,7 @@
 		"AssemblyVersion": "7.1.0.0",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
 		"Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-		"DownloadCount": 8631
+		"DownloadCount": 8632
 	},
 	{
 		"Author": "NightmareXIV",
@@ -81,7 +81,7 @@
 		],
 		"InternalName": "Artisan",
 		"RepoUrl": "https://github.com/PunishXIV/Artisan",
-		"DownloadCount": 2005923,
+		"DownloadCount": 2005925,
 		"LastUpdate": 1733126950007,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -102,7 +102,7 @@
 		"Tags": [],
 		"InternalName": "AutoDuty",
 		"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-		"DownloadCount": 308427,
+		"DownloadCount": 308430,
 		"LastUpdate": 1733976924049,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
@@ -133,7 +133,7 @@
 		],
 		"InternalName": "AutoHook",
 		"RepoUrl": "https://github.com/PunishXIV/AutoHook",
-		"DownloadCount": 439903,
+		"DownloadCount": 439905,
 		"LastUpdate": 1732134502714,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -173,7 +173,7 @@
 		"Tags": [],
 		"InternalName": "AutoRetainer",
 		"RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-		"DownloadCount": 883377,
+		"DownloadCount": 883378,
 		"LastUpdate": 1732716776314,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -196,7 +196,7 @@
 		],
 		"InternalName": "Avarice",
 		"RepoUrl": "https://github.com/PunishXIV/Avarice",
-		"DownloadCount": 143339,
+		"DownloadCount": 143340,
 		"LastUpdate": 1733458789370,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -283,7 +283,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
 		"TestingAssemblyVersion": "1.0.2.1",
 		"Changelog": "## What's Changed\r\n* FRU fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/504\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.232...7.2.0.233",
-		"DownloadCount": 690796
+		"DownloadCount": 690800
 	},
 	{
 		"Author": "Asgard, Minmoose and Contributors",
@@ -714,7 +714,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.15/GatherbuddyReborn.zip",
 		"TestingAssemblyVersion": "7.2.2.15",
 		"Changelog": "## What's Changed\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/258\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.12...7.2.2.13",
-		"DownloadCount": 136962
+		"DownloadCount": 136965
 	},
 	{
 		"Author": "Liza Carvelli",
@@ -926,7 +926,7 @@
 		],
 		"InternalName": "LazyLoot",
 		"RepoUrl": "https://github.com/PunishXIV/LazyLoot",
-		"DownloadCount": 119169,
+		"DownloadCount": 119170,
 		"LastUpdate": 1732708225536,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/9/LazyLoot/versions/latest.zip",
@@ -944,7 +944,7 @@
 		"Name": "Lemegeton",
 		"Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
 		"InternalName": "Lemegeton",
-		"AssemblyVersion": "1.0.6.0",
+		"AssemblyVersion": "1.0.6.2",
 		"RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
 		"IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
 		"ApplicableVersion": "any",
@@ -956,9 +956,9 @@
 		"IsTestingExclusive": "False",
 		"LastUpdated": 0,
 		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.0/Lemegeton_1_0_6_0.zip",
-		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.0/Lemegeton_1_0_6_0.zip",
-		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.0/Lemegeton_1_0_6_0.zip"
+		"DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.2/Lemegeton_1_0_6_2.zip",
+		"DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.2/Lemegeton_1_0_6_2.zip",
+		"DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.6.2/Lemegeton_1_0_6_2.zip"
 	},
 	{
 		"Author": "NightmareXIV",
@@ -1243,7 +1243,7 @@
 		],
 		"InternalName": "PandorasBox",
 		"RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-		"DownloadCount": 515563,
+		"DownloadCount": 515565,
 		"LastUpdate": 1732285230924,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/8/PandorasBox/versions/latest.zip",
@@ -1441,7 +1441,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.1.1.9",
 		"Changelog": "## What's Changed\r\n* MIsc fixes for BRD based on 3rd party work by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/478\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.1.18...7.1.1.19",
-		"DownloadCount": 495727
+		"DownloadCount": 495739
 	},
 	{
 		"Author": "veyn",
@@ -1584,7 +1584,7 @@
 		],
 		"InternalName": "Splatoon",
 		"RepoUrl": "https://github.com/PunishXIV/Splatoon",
-		"DownloadCount": 664387,
+		"DownloadCount": 664388,
 		"LastUpdate": 1733188799190,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -1760,7 +1760,7 @@
 		"Tags": [],
 		"InternalName": "vnavmesh",
 		"RepoUrl": null,
-		"DownloadCount": 159308,
+		"DownloadCount": 159310,
 		"LastUpdate": 1732497848343,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
@@ -1844,7 +1844,7 @@
 		"Tags": [],
 		"InternalName": "WrathCombo",
 		"RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-		"DownloadCount": 45395,
+		"DownloadCount": 45396,
 		"LastUpdate": 1734012688376,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -1862,7 +1862,7 @@
 		"Tags": [],
 		"InternalName": "YesAlready",
 		"RepoUrl": "https://github.com/PunishXIV/YesAlready",
-		"DownloadCount": 511840,
+		"DownloadCount": 511845,
 		"LastUpdate": 1733313744968,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
