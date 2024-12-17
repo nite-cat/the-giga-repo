@@ -81,7 +81,7 @@
 		],
 		"InternalName": "Artisan",
 		"RepoUrl": "https://github.com/PunishXIV/Artisan",
-		"DownloadCount": 2005914,
+		"DownloadCount": 2005917,
 		"LastUpdate": 1733126950007,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -102,7 +102,7 @@
 		"Tags": [],
 		"InternalName": "AutoDuty",
 		"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-		"DownloadCount": 308407,
+		"DownloadCount": 308411,
 		"LastUpdate": 1733976924049,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
@@ -196,7 +196,7 @@
 		],
 		"InternalName": "Avarice",
 		"RepoUrl": "https://github.com/PunishXIV/Avarice",
-		"DownloadCount": 143335,
+		"DownloadCount": 143337,
 		"LastUpdate": 1733458789370,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/11/Avarice/versions/latest.zip",
@@ -283,7 +283,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
 		"TestingAssemblyVersion": "1.0.2.1",
 		"Changelog": "## What's Changed\r\n* FRU fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/504\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.232...7.2.0.233",
-		"DownloadCount": 690622
+		"DownloadCount": 690788
 	},
 	{
 		"Author": "Asgard, Minmoose and Contributors",
@@ -714,7 +714,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.15/GatherbuddyReborn.zip",
 		"TestingAssemblyVersion": "7.2.2.15",
 		"Changelog": "## What's Changed\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/258\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.12...7.2.2.13",
-		"DownloadCount": 136956
+		"DownloadCount": 136961
 	},
 	{
 		"Author": "Liza Carvelli",
@@ -1192,7 +1192,7 @@
 		],
 		"InternalName": "PalacePal",
 		"RepoUrl": "https://github.com/PunishXIV/PalacePal",
-		"DownloadCount": 94188,
+		"DownloadCount": 94190,
 		"LastUpdate": 1732038865708,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -1441,7 +1441,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.1.1.9",
 		"Changelog": "## What's Changed\r\n* MIsc fixes for BRD based on 3rd party work by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/478\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.1.18...7.1.1.19",
-		"DownloadCount": 495592
+		"DownloadCount": 495714
 	},
 	{
 		"Author": "veyn",
@@ -1451,7 +1451,7 @@
 		"Tags": [],
 		"InternalName": "vsatisfy",
 		"RepoUrl": null,
-		"DownloadCount": 11446,
+		"DownloadCount": 11447,
 		"LastUpdate": 1731968041382,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
@@ -1473,7 +1473,7 @@
 		],
 		"InternalName": "Saucy",
 		"RepoUrl": "https://github.com/PunishXIV/Saucy",
-		"DownloadCount": 253333,
+		"DownloadCount": 253334,
 		"LastUpdate": 1733673763789,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -1584,7 +1584,7 @@
 		],
 		"InternalName": "Splatoon",
 		"RepoUrl": "https://github.com/PunishXIV/Splatoon",
-		"DownloadCount": 664381,
+		"DownloadCount": 664382,
 		"LastUpdate": 1733188799190,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -1724,7 +1724,7 @@
 		"Tags": [],
 		"InternalName": "visland",
 		"RepoUrl": "https://github.com/awgil/ffxiv_visland",
-		"DownloadCount": 526651,
+		"DownloadCount": 526652,
 		"LastUpdate": 1733336524644,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
@@ -1844,7 +1844,7 @@
 		"Tags": [],
 		"InternalName": "WrathCombo",
 		"RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-		"DownloadCount": 45394,
+		"DownloadCount": 45395,
 		"LastUpdate": 1734012688376,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
