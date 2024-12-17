@@ -25,7 +25,7 @@
 		"AssemblyVersion": "7.1.0.0",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
 		"Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-		"DownloadCount": 8630
+		"DownloadCount": 8631
 	},
 	{
 		"Author": "NightmareXIV",
@@ -81,7 +81,7 @@
 		],
 		"InternalName": "Artisan",
 		"RepoUrl": "https://github.com/PunishXIV/Artisan",
-		"DownloadCount": 2005918,
+		"DownloadCount": 2005921,
 		"LastUpdate": 1733126950007,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -102,7 +102,7 @@
 		"Tags": [],
 		"InternalName": "AutoDuty",
 		"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-		"DownloadCount": 308411,
+		"DownloadCount": 308412,
 		"LastUpdate": 1733976924049,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
@@ -133,7 +133,7 @@
 		],
 		"InternalName": "AutoHook",
 		"RepoUrl": "https://github.com/PunishXIV/AutoHook",
-		"DownloadCount": 439899,
+		"DownloadCount": 439900,
 		"LastUpdate": 1732134502714,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -237,7 +237,7 @@
 		"Tags": [],
 		"InternalName": "BossMod",
 		"RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-		"DownloadCount": 557726,
+		"DownloadCount": 557727,
 		"LastUpdate": 1733940901996,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
@@ -283,7 +283,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
 		"TestingAssemblyVersion": "1.0.2.1",
 		"Changelog": "## What's Changed\r\n* FRU fix by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/504\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.232...7.2.0.233",
-		"DownloadCount": 690788
+		"DownloadCount": 690796
 	},
 	{
 		"Author": "Asgard, Minmoose and Contributors",
@@ -345,7 +345,7 @@
 		],
 		"InternalName": "Automaton",
 		"RepoUrl": "https://github.com/Jaksuhn/Automaton",
-		"DownloadCount": 106695,
+		"DownloadCount": 106696,
 		"LastUpdate": 1734367783189,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
@@ -599,7 +599,7 @@
 		"AssemblyVersion": "7.1.0.2",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
 		"Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-		"DownloadCount": 13516
+		"DownloadCount": 13517
 	},
 	{
 		"Author": "Aireil",
@@ -714,7 +714,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.15/GatherbuddyReborn.zip",
 		"TestingAssemblyVersion": "7.2.2.15",
 		"Changelog": "## What's Changed\r\n* Fixes by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/258\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.12...7.2.2.13",
-		"DownloadCount": 136961
+		"DownloadCount": 136962
 	},
 	{
 		"Author": "Liza Carvelli",
@@ -1441,7 +1441,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.1.1.9",
 		"Changelog": "## What's Changed\r\n* MIsc fixes for BRD based on 3rd party work by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/478\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.1.18...7.1.1.19",
-		"DownloadCount": 495714
+		"DownloadCount": 495727
 	},
 	{
 		"Author": "veyn",
@@ -1862,7 +1862,7 @@
 		"Tags": [],
 		"InternalName": "YesAlready",
 		"RepoUrl": "https://github.com/PunishXIV/YesAlready",
-		"DownloadCount": 511838,
+		"DownloadCount": 511839,
 		"LastUpdate": 1733313744968,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
