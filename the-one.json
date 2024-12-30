@@ -25,7 +25,7 @@
 		"AssemblyVersion": "7.1.0.0",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/releases/download/7.1.0.0/ActionTimelineReborn.zip",
 		"Changelog": "## What's Changed\r\n* Api11 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/pull/4\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/ActionTimelineReborn/compare/7.0.5.1...7.1.0.0",
-		"DownloadCount": 9021
+		"DownloadCount": 9022
 	},
 	{
 		"Author": "NightmareXIV",
@@ -81,7 +81,7 @@
 		],
 		"InternalName": "Artisan",
 		"RepoUrl": "https://github.com/PunishXIV/Artisan",
-		"DownloadCount": 2016003,
+		"DownloadCount": 2016007,
 		"LastUpdate": 1733126950007,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
@@ -102,7 +102,7 @@
 		"Tags": [],
 		"InternalName": "AutoDuty",
 		"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-		"DownloadCount": 321019,
+		"DownloadCount": 321022,
 		"LastUpdate": 1735039285702,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/latest.zip",
@@ -133,7 +133,7 @@
 		],
 		"InternalName": "AutoHook",
 		"RepoUrl": "https://github.com/PunishXIV/AutoHook",
-		"DownloadCount": 442673,
+		"DownloadCount": 442675,
 		"LastUpdate": 1732134502714,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
@@ -173,7 +173,7 @@
 		"Tags": [],
 		"InternalName": "AutoRetainer",
 		"RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-		"DownloadCount": 888096,
+		"DownloadCount": 888099,
 		"LastUpdate": 1732716776314,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/latest.zip",
@@ -237,7 +237,7 @@
 		"Tags": [],
 		"InternalName": "BossMod",
 		"RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-		"DownloadCount": 565071,
+		"DownloadCount": 565095,
 		"LastUpdate": 1735521135010,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
@@ -283,7 +283,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
 		"TestingAssemblyVersion": "1.0.2.1",
 		"Changelog": "## What's Changed\r\n* merge vbm by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/530\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.2.0.248...7.2.0.249",
-		"DownloadCount": 747625
+		"DownloadCount": 747773
 	},
 	{
 		"Author": "Asgard, Minmoose and Contributors",
@@ -599,7 +599,7 @@
 		"AssemblyVersion": "7.1.0.2",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/EasyZoomReborn/releases/download/7.1.0.2/EasyZoomReborn.zip",
 		"Changelog": "**Full Changelog**: https://github.com/FFXIV-CombatReborn/EasyZoomReborn/compare/7.1.0.1...7.1.0.2",
-		"DownloadCount": 14062
+		"DownloadCount": 14063
 	},
 	{
 		"Author": "Aireil",
@@ -714,7 +714,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.2.2.17/GatherbuddyReborn.zip",
 		"TestingAssemblyVersion": "7.2.2.17",
 		"Changelog": "## What's Changed\r\n* Update 7.15 by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/272\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.15...7.2.2.16",
-		"DownloadCount": 147062
+		"DownloadCount": 147065
 	},
 	{
 		"Author": "Liza Carvelli",
@@ -1192,7 +1192,7 @@
 		],
 		"InternalName": "PalacePal",
 		"RepoUrl": "https://github.com/PunishXIV/PalacePal",
-		"DownloadCount": 95599,
+		"DownloadCount": 95600,
 		"LastUpdate": 1732038865708,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/latest.zip",
@@ -1378,7 +1378,7 @@
 		"AssemblyVersion": "7.1.1.1",
 		"DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RebornToolbox/releases/download/7.1.1.1/RebornToolbox.zip",
 		"Changelog": "## What's Changed\r\n* Lifestream enhancements by @NostraThomas99 in https://github.com/FFXIV-CombatReborn/RebornToolbox/pull/10\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RebornToolbox/compare/7.1.0.0...7.1.1.1",
-		"DownloadCount": 8985
+		"DownloadCount": 8988
 	},
 	{
 		"Author": "Liza Carvelli",
@@ -1441,7 +1441,7 @@
 		"DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.1.1.9/RotationSolver.zip",
 		"TestingAssemblyVersion": "7.1.1.9",
 		"Changelog": "## What's Changed\r\n* Fixed tincture bug from lumina update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/496\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.1.5.12...7.1.5.13",
-		"DownloadCount": 547231
+		"DownloadCount": 547385
 	},
 	{
 		"Author": "veyn",
@@ -1451,7 +1451,7 @@
 		"Tags": [],
 		"InternalName": "vsatisfy",
 		"RepoUrl": null,
-		"DownloadCount": 15032,
+		"DownloadCount": 15033,
 		"LastUpdate": 1734653110145,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/58/vsatisfy/versions/latest.zip",
@@ -1473,7 +1473,7 @@
 		],
 		"InternalName": "Saucy",
 		"RepoUrl": "https://github.com/PunishXIV/Saucy",
-		"DownloadCount": 258508,
+		"DownloadCount": 258510,
 		"LastUpdate": 1733673763789,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/latest.zip",
@@ -1563,7 +1563,7 @@
 		"Tags": [],
 		"InternalName": "SomethingNeedDoing",
 		"RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-		"DownloadCount": 344053,
+		"DownloadCount": 344054,
 		"LastUpdate": 1735051063100,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
@@ -1584,7 +1584,7 @@
 		],
 		"InternalName": "Splatoon",
 		"RepoUrl": "https://github.com/PunishXIV/Splatoon",
-		"DownloadCount": 705061,
+		"DownloadCount": 705118,
 		"LastUpdate": 1735534085213,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/latest.zip",
@@ -1724,7 +1724,7 @@
 		"Tags": [],
 		"InternalName": "visland",
 		"RepoUrl": "https://github.com/awgil/ffxiv_visland",
-		"DownloadCount": 530009,
+		"DownloadCount": 530012,
 		"LastUpdate": 1733336524644,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/latest.zip",
@@ -1760,7 +1760,7 @@
 		"Tags": [],
 		"InternalName": "vnavmesh",
 		"RepoUrl": null,
-		"DownloadCount": 162576,
+		"DownloadCount": 162578,
 		"LastUpdate": 1732497848343,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/48/vnavmesh/versions/latest.zip",
@@ -1844,7 +1844,7 @@
 		"Tags": [],
 		"InternalName": "WrathCombo",
 		"RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-		"DownloadCount": 59852,
+		"DownloadCount": 59854,
 		"LastUpdate": 1735058013698,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/latest.zip",
@@ -1862,7 +1862,7 @@
 		"Tags": [],
 		"InternalName": "YesAlready",
 		"RepoUrl": "https://github.com/PunishXIV/YesAlready",
-		"DownloadCount": 516655,
+		"DownloadCount": 516657,
 		"LastUpdate": 1733313744968,
 		"DownloadLinkInstall": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
 		"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/26/YesAlready/versions/latest.zip",
